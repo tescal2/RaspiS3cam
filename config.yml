@@ -1,0 +1,13 @@
+s3:
+    access_key_id: 'your access key here'
+    secret_access_key: 'your secret key here'
+    bucket_name: 's3 bucketname'
+
+image_settings:
+    horizontal_res: 640
+    vertical_res: 480
+    file_extension: '.jpg'
+    awb_mode: 'auto'
+    photo_interval: 60
+
+debug: true
